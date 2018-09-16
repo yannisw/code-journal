@@ -32,6 +32,6 @@
 <p>
   <strong>Reflections:</strong>
   <br>
-  The main reason I struggled learning to code last year was not being able to see past the smaller things to the bigger picture. I think the free udemy course really helped in making me understand that I was capable of making something pretty. This made me start to think of the possibilities. It also helped in linking my knowledge I learned from the html and css section of the Free Code Camp, Code Academy and <a href="https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc">LearnCode.academy</a>, which was a resource recommended by the learn to code guide. 
+  The main reason I struggled learning to code last year was not being able to see past the smaller things to the bigger picture. I think the free udemy course really helped in making me understand that I was capable of making something pretty. This made me start to think of the possibilities. It also helped in linking my knowledge I learned from the html and css section of the Free Code Camp, Code Academy and <a href="https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc">LearnCode.academy</a>, which was a resource recommended by Andrei Neagoie's learn to code in 2018 guide. 
 </p>
 
