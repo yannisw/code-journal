@@ -15,7 +15,7 @@
   <br>
   I left off a year ago, where I was four weeks into the cs50 course.
   <br>
-  I started to take the free udemy course <a href="https://www.udemy.com/build-your-first-website-in-1-week/">Build Your First Website in   1 Week with HTML5 and CSS3</a>.
+  I started to with the free udemy course <a href="https://www.udemy.com/build-your-first-website-in-1-week/">Build Your First Website in   1 Week with HTML5 and CSS3</a>.
   <br>
   I also started to follow <a href="https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a">Andrei Neagoie's guide</a> on learning to program.
 </p>
@@ -62,6 +62,7 @@
         <li>Build a Personal Portfolio Webpage</li>
     </ul>
 </p>
+<p>My strategy for completing all of this was to watch at least one video from each source per session, and to keep going when I felt like it. When I started to feel bored with the videos from one source, I would pick up another video from another source to keep things interesting for me. It was also important for me to code along as I was watching the videos, as I remember things better when I was doing it.</p>
 <h3>
   Week 4 
   <br>
