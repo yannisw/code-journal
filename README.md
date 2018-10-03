@@ -4,10 +4,10 @@
     Follow my journey in learning to code here.</p>
 
 <h2> 
-  The First Month
+  The Journey Begins
 </h2>
 <h3>
-  The First Week
+  #1 The First Week
   <br>
   29/08/2018 - 02/09/2018</h3>
 <p>
@@ -15,7 +15,7 @@
   <br>
   I left off a year ago, where I was four weeks into the cs50 course.
   <br>
-  I started to with the free udemy course <a href="https://www.udemy.com/build-your-first-website-in-1-week/">Build Your First Website in   1 Week with HTML5 and CSS3</a>.
+  This time, I started with the free udemy course <a href="https://www.udemy.com/build-your-first-website-in-1-week/">Build Your First Website in 1 Week with HTML5 and CSS3</a>. 
   <br>
   I also started to follow <a href="https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a">Andrei Neagoie's guide</a> on learning to program.
 </p>
@@ -36,7 +36,7 @@
 </p>
 
 <h3>
-  The Second and Third Week
+  #2 - #3 The Second and Third Week
   <br>
 03/09/2018 - 16/09/2018</h3>
 <p>
@@ -64,7 +64,7 @@
 </p>
 <p>My strategy for completing all of this was to watch at least one video from each source per session, and to keep going when I felt like it. When I started to feel bored with the videos from one source, I would pick up another video from another source to keep things interesting for me. It was also important for me to code along as I was watching the videos, as I remember things better when I was doing it.</p>
 <h3>
-  Week 4 
+  #4 Week 4 
   <br>
 17/09/2018 - 23/09/2018</h3>
 <p>Completed the Responsive Web Design Certification on Free Code Camp.</p>
@@ -72,3 +72,24 @@
     Started going through the second month section of the learn to code guide. I will continue the other sections in the first month when I feel like I want to watch a video without consuming too much brain power. I feel like the second month section of the guide may take more than a month to complete.
 </p>
   
+<h3>
+  #5 Week 5 
+  <br>
+24/09/2018 - 30/09/2018</h3>
+<p>Progress made so far with readings:<ul><li>javascript.info: Lesson 35 of 67 of the Javascript Language section, which was on arrays</li><li>Midway through Chapter 3 of Eloquent Javascript</li></ul></p>
+<p>Progress made from Courses: <ul><li>Conditional statements of the Introduction to Javascript Programming from Frontend Masters</li><li>Started on the iterables section on the Introduction to Javascript course on Codeacademy.</li></ul></p>
+<p>Issues I have found is that progress seems to be slow, and by the end of the week, I am struggling to remember and make connections to concepts I learned earlier.</p>
+<p>I am struggling to read Eloquent Javascript. New concepts are not explained fully, and I am needing to rely on googling new concepts. Examples of this include recursive functions</p>
+<p>I discovered the <a href="https://watchandcode.com/p/practical-javascript">Watch and Code: Practical Javascript</a> course</p>
+<p>This seems to be a nice course as it targets beginners, and we get to build an actual Javascript app from scratch. I will be going to look into this course.</p>
+
+<h2>October 2018</h2>
+<h3>
+  #6 Week 1 
+  <br>
+01/10/2018 - 07/10/2018</h3>
+<p>I have finished the Practical Javascript course. <p>
+<p>I have made my first Javascript application. It's an ugly todo list!</p> 
+<p>It works! and that is what matters the most!</p>
+<p>So happy! I am finally getting somewhere. Plus, concepts I did not quite understand previously were explained in this course.</p>
+<p>Things I learned in this course: <ul><li>How all the knowledge learned previously on things such as objects, arrays, functions all come together in a web application</li><li>Some of the very basics on how to access the DOM in javascript</li><li>How to figure out what <code>this</code> is referring to</li><li>What higher order functions and callbacks are</li><li>How the built-in debugger in chrome can help with figurring how the function runs</li><li>How to break the application down into smaller, managable chunks</li></ul></p>
