@@ -97,3 +97,4 @@
 <p>I also watched the drum kit tutorial for the second time from the javascript30 challenge by Wes Bos.</p>
 <p>The first time I watched it was two weeks ago, and I was not able to make much sense out of it.</p>
 <p>This time, the tutorial stuck with me a lot better, and I was inspired to start the scaredy cat project.</p>
+###6 
