@@ -1,8 +1,8 @@
-##October 2018
+## October 2018
 
-###6 Week 1
+### 6 Week 1
 
-###01/10/2018 - 07/10/2018
+### 01/10/2018 - 07/10/2018
 
 I have finished the Practical Javascript course.
 
