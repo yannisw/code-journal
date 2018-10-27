@@ -2,7 +2,7 @@
 <p> Welcome to my coding journal. 
     Join me as I explore the coding field as a self learner. 
     Follow my journey in learning to code here.</p>
-
+<a href="https://github.com/yannisw/code-journal/blob/master/october18.md">Journals for October 2018</a>
 <h2> 
   The Journey Begins
 </h2>
